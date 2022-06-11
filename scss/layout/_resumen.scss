@@ -1,0 +1,18 @@
+.invalidar-cita {
+    text-transform: uppercase;
+    text-align: center;
+    margin: $separacion / 2 0;
+}
+
+//Fondo del resumen 
+.bg-servicios {
+    background-color: $naranja;
+    // border: 0.0001rem solid $blanco;
+    border-radius: $separacion / 2;
+    padding: $separacion / 2;
+}
+
+.seccion,
+h3 {
+    color: $blanco;
+}
